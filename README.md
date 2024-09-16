@@ -1,5 +1,8 @@
 # HeyGen Interactive Avatar NextJS Demo
 
+# Added route in package.json script dev: node ./node_modules/......
+# Changed LLM from gpt-4-turbo ---> gpt-4-o
+
 ![HeyGen Interactive Avatar NextJS Demo Screenshot](./public/demo.png)
 
 This is a sample project and was bootstrapped using [NextJS](https://nextjs.org/).
