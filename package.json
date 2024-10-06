@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@ai-sdk/openai": "^0.0.34",
+    "@ai-sdk/provider": "^0.0.23",
     "@heygen/streaming-avatar": "^2.0.6",
     "@nextui-org/button": "2.0.34",
     "@nextui-org/chip": "^2.0.32",
